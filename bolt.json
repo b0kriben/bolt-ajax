@@ -1,0 +1,197 @@
+{
+  "bolt": [
+    {
+      "id": "1",
+      "name": "tej",
+      "unit": "l",
+      "desc": "zsírtartalom: 2,8 %",
+      "store": 20,
+      "price": "380 Ft"
+    },
+    {
+      "id": "2",
+      "name": "toboz",
+      "unit": "kg",
+      "desc": "Fáról van",
+      "store": 42,
+      "price": "12000 Ft"
+    },
+    {
+      "id": "3",
+      "name": "narancslé",
+      "unit": "l",
+      "desc": "Hohes C",
+      "store": 30,
+      "price": "1300 Ft"
+    },
+    {
+      "id": "4",
+      "name": "Sertészsír",
+      "unit": "kg",
+      "desc": "Kiváló Magyar Termék; Hidegen sajtolt",
+      "store": 20,
+      "price": "3200 Ft"
+    },
+    {
+      "id": "5",
+      "name": "alma",
+      "unit": "kg",
+      "desc": "piros, savanyú",
+      "store": 30,
+      "price": "700 Ft"
+    },
+    {
+      "id": "6",
+      "name": "Coca-Cola",
+      "unit": "palack",
+      "desc": "1,75 l;cukortartalom: 31%",
+      "store": 30,
+      "price": "450 Ft"
+    },
+    {
+      "id": "7",
+      "name": "majonéz",
+      "unit": "420g",
+      "desc": "Univer light",
+      "store": 30,
+      "price": "1180 Ft"
+    },
+    {
+      "id": "8",
+      "name": "zöld alma",
+      "unit": "tálca",
+      "desc": "hazai termelőtől",
+      "store": 12,
+      "price": "500 Ft"
+    },
+    {
+      "id": "9",
+      "name": "Túró rudi",
+      "unit": "db",
+      "desc": "finom;30 g",
+      "store": 24,
+      "price": "249 Ft"
+    },
+    {
+      "id": "10",
+      "name": "banán",
+      "unit": "kg",
+      "desc": "érett; turmixolható",
+      "store": 50,
+      "price": "1280 Ft"
+    },
+    {
+      "id": "11",
+      "name": "BERGSHULT / SANDSHULT",
+      "unit": "db",
+      "desc": "Falipolc, fehér/nyárfa, 120x30 cm",
+      "store": 14,
+      "price": "9090 Ft"
+    },
+    {
+      "id": "12",
+      "name": "zsírszegény tej",
+      "unit": "l",
+      "desc": "zsirtartalom: 1,5%",
+      "store": 29,
+      "price": "380 FT"
+    },
+    {
+      "id": "13",
+      "name": "Darázsirtó spray",
+      "unit": "db",
+      "desc": "750 ml;Darázs írtó szer ami irtja a darazsakat",
+      "store": 15,
+      "price": "2800 Ft"
+    },
+    {
+      "id": "14",
+      "name": "kenyér",
+      "unit": "kg",
+      "desc": "fehér kenyér;kovászos",
+      "store": 6,
+      "price": "600 Ft"
+    },
+    {
+      "id": "15",
+      "name": "alma",
+      "unit": "kg",
+      "desc": "Idared",
+      "store": 400,
+      "price": "380 Ft"
+    },
+    {
+      "id": "16",
+      "name": "kuplung tárcsa",
+      "unit": "db",
+      "desc": "Új kuplung",
+      "store": 20,
+      "price": "70000 Ft"
+    },
+    {
+      "id": "17",
+      "name": "Gumikesztyű",
+      "unit": "pár",
+      "desc": "bőrkímélő anyag",
+      "store": 19,
+      "price": "1100 Ft"
+    },
+    {
+      "id": "18",
+      "name": "kukorica konzerv",
+      "unit": "db",
+      "desc": "édes kukorica; 340g",
+      "store": 100,
+      "price": "350 ft"
+    },
+    {
+      "id": "19",
+      "name": "LG 4k tv",
+      "unit": "l",
+      "desc": "nagyon jo tv",
+      "store": 2,
+      "price": "380.000 Ft"
+    },
+    {
+      "id": "",
+      "name": "Radír",
+      "unit": "darab",
+      "desc": "Elefántos",
+      "store": 1000,
+      "price": "200 Ft"
+    },
+    {
+      "id": "4dcb",
+      "name": "Radír",
+      "unit": "darab",
+      "desc": "Elefántos",
+      "store": 10000,
+      "price": "200 Ft"
+    },
+    {
+      "id": "751e",
+      "name": "",
+      "unit": "",
+      "desc": "",
+      "store": "",
+      "price": ""
+    },
+    {
+      "id": "5e82",
+      "name": "",
+      "unit": "",
+      "desc": "",
+      "store": "",
+      "price": ""
+    },
+    {
+      "id": "b61f",
+      "name": "",
+      "unit": "",
+      "desc": "",
+      "store": "",
+      "price": ""
+    }
+  ],
+  "order": []
+}
